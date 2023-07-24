@@ -1,5 +1,5 @@
 # simple-weather-bot
-Hello, this is my simple weather bot. Language settings doesn't make sense :)
+Hello, this is my simple weather bot. Language settings don't make sense :)
 Integrations:
 - telegraf.js
 - dotenv
